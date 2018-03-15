@@ -13,6 +13,7 @@
         <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/popover.min.js" />
         <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/tab.min.js" />
         <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/modal.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/typewriter/typed.min.min.js" />
         <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/dropdown.min.js" />
         <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/scrollspy.min.js" />
         <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/alert.min.js" />
@@ -54,6 +55,7 @@
       <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/popover.min.js" />
       <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/tab.min.js" />
       <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/modal.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/typewriter/typed.min.min.js" />
       <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/dropdown.min.js" />
       <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/scrollspy.min.js" />
       <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/alert.min.js" />

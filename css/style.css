@@ -1,6 +1,9 @@
 .navbar-light .navbar-toggler {
   border: none;
 }
+.wow {
+  visibility: hidden;
+}
 body {
   overflow-x: hidden;
 }
@@ -41,10 +44,21 @@ body {
   text-align: center;
   padding: 0 10px;
 }
-.information-of-site {
+.information-of-stats {
   background: url("../img/bg-site.svg") no-repeat center;
   background-size: cover;
-  min-height: 700px;
+  color: #fff;
+}
+.marketing-information {
+  background-color: #31C0D8;
+}
+.mkt-text {
+  color: #ffffff;
+  margin-bottom: 90px;
+}
+.mkt-txt-destaque {
+  font-weight: 600;
+  color: #005f6f;
 }
 @media (min-width: 992px) {
   .entrance {
@@ -65,5 +79,8 @@ body {
   .information-text {
     padding-top: 210px;
     color: #f6f6f6;
+  }
+  .information-of-stats {
+    height: 750px;
   }
 }

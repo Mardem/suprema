@@ -1,5 +1,5 @@
-<!doctype html>
-<html class="no-js" lang="">
+<!DOCTYPE html>
+<html class="no-js" lang="pt_BR">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -16,10 +16,11 @@
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="/assets/bootstrap-4.0.0/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="/node_modules/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/node_modules/animate.css/animate.min.css">
     <link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
-
+    
 </head>
-<body>
+<body class="wow fadeIn">
 <!--[if lte IE 9]>
 <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade
     your browser</a> to improve your experience and security.</p>
@@ -27,7 +28,7 @@
 
 
 <header>
-    <nav class="navbar navbar-expand-lg navbar-light su-nav">
+    <nav class="navbar navbar-expand-lg navbar-light su-nav wow slideInDown" data-wow-duration="0.6s">
         <a class="navbar-brand" href="#">
             <img src="/img/brand.svg" width="30" height="30" alt=""> Suprema
         </a>
@@ -85,46 +86,49 @@
     <section class="projects">
         <div class="row" align="center">
             
-            <div class="col-sm-4">
+            <div class="col-sm-4 wow slideInLeft" data-wow-duration="1s">
                 <div class="container">
                     <div class="card">
                         <img class="card-img-top" src="/img/project-minimus.svg">
                         <div class="card-block">
                             <h4 class="card-title">minimus</h4>
                             <p class="card-text">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos facere perspiciatis
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos facere
+                                perspiciatis
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-4 wow slideInUp" data-wow-duration="1.2s">
                 <div class="container">
                     <div class="card">
                         <img class="card-img-top" src="/img/project-portal-formosa.svg">
                         <div class="card-block">
                             <h4 class="card-title">Portal Formosa</h4>
                             <p class="card-text">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos facere perspiciatis
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos facere
+                                perspiciatis
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-4 wow slideInRight" data-wow-duration="1.5s">
                 <div class="container">
                     <div class="card">
                         <img class="card-img-top" src="/img/project-suprema.svg">
                         <div class="card-block">
                             <h4 class="card-title">Suprema Consultoria</h4>
                             <p class="card-text">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos facere perspiciatis
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos facere
+                                perspiciatis
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
-            
+        
         </div>
     </section>
     
@@ -132,12 +136,14 @@
         <div class="row" align="center">
             <div class="col-sm">
                 <div class="container" align="center">
-                    <img src="/img/seo-info.svg" class="seo-image img-fluid">
-                    <h2>
+                    <img src="/img/seo-info.svg" class="seo-image img-fluid wow bounceInUp">
+                    <h2 class="wow slideInUp">
                         <img src="/img/seo-text.svg" class="seo-text" width="170">
                         (Search Engine Optimization)</h2>
-                    <p class="lead">
-                        O <b class="seo-destaque">SEO (Search Engine Optimization)</b>, também conhecido como otimização
+                    <p class="lead wow fadeIn" data-wow-duration="2s">
+                        O <b class="seo-destaque" id="textT">SEO</b>, também conhecido
+                        como
+                        otimização
                         de sites, é
                         rapidamente
                         definido como uma forma de aumentar os acessos do seu site através de um conjunto de <b
@@ -151,21 +157,47 @@
                 </div>
             </div>
         </div>
-    
     </section>
     
-    <section class="information-of-site">
-        <div class="row information-text" align="justify">
-            <div class="col-sm-4">
-                <div class="container">
-                    <h2 class="title">Lorem ipsum</h2>
-                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A cum delectus eos id, in ipsam iusto modi non porro quas ratione repellendus repudiandae soluta sunt tempora veritatis vero vitae voluptate!</p>
-                </div>
+    <section class="wow slideInRight">
+        <div class="jumbotron jumbotron-fluid information-of-stats" style="margin-bottom: 0;">
+            <div class="container">
+                <h2 class="display-3">Estatísticas</h2>
+                <p class="lead">
+                    Aqui fazemos uma produção de um texto relacionando todos os nossos trabalhos. <br>
+                    E por fim finalizamos o conteúdo de tudo.
+                </p>
+                <p class="lead">
+                    <a class="btn btn-primary btn-lg" href="Jumbo action link" role="button">Saber mais</a>
+                </p>
             </div>
         </div>
     </section>
+    
+    <section class="marketing-information wow slideInLeft">
+        <div class="row" align="center">
+            <div class="col-sm">
+                <div class="container" align="center">
+                    <img src="/img/marketing-digital-logo.svg" class="seo-image img-fluid">
+                    <h2>
+                        <img src="/img/mkt-text.svg" class="seo-text" width="170">
+                        Marketing Digital</h2>
+                    <p class="lead mkt-text">
+                        <b class="mkt-txt-destaque">Marketing digital</b> são ações de comunicação que as empresas podem
+                        utilizar por meio da
+                        internet, da telefonia
+                        celular e outros meios digitais, para assim divulgar e comercializar seus produtos, conquistando
+                        <b class="mkt-txt-destaque">novos clientes</b> e melhorando a sua rede de relacionamentos. Ele engloba a prática de promover
+                        produtos ou serviços pela utilização de canais de distribuição eletrônicos, para então chegar
+                        aos consumidores rapidamente de forma relevante, personalizada e com mais eficiência.
+                    </p>
+                </div>
+            </div>
+        </div>
+    
+    </section>
     <hr>
-    <section class="contact">
+    <section class="contact wow fadeInRightBig">
         <div class="row">
             <div class="col-sm">
                 <div class="container">
@@ -203,7 +235,7 @@
         </div>
     </section>
     
-    <section class="about-us">
+    <section class="about-us wow zoomIn">
         <div class="container" align="center">
             <h2 class="about">Quem somos</h2>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur ducimus esse inventore libero magni
@@ -218,10 +250,11 @@
 </footer>
 
 <script src="js/vendor/modernizr-3.5.0.min.js"></script>
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"
-        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-<script src="/assets/bootstrap-4.0.0/dist/js/popper.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 <script src="/assets/bootstrap-4.0.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/typewriter/typed.min.js"></script>
+<script src="/assets/bootstrap-4.0.0/dist/js/popper.min.js"></script>
+<script src="node_modules/wowjs/dist/wow.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.2.1.min.js"><\/script>')</script>
 <script src="node_modules/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
 <script src="js/plugins.js"></script>
@@ -229,5 +262,17 @@
 
 <script src="https://www.google-analytics.com/analytics.js" async defer></script>
 <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+<script>
+    let wow = new WOW({
+        offset:       150,          // distance to the element when triggering the animation (default is 0)
+        mobile:       true,       // trigger animations on mobile devices (default is true)
+        live:         true,       // act on asynchronously loaded content (default is true)
+        boxClass:     'wow',      // animated element css class (default is wow)
+        animateClass: 'animated', // animation css class (default is animated)
+        scrollContainer: null // optional scroll container selector, otherwise use window
+    });
+    wow.init();
+    
+</script>
 </body>
 </html>
