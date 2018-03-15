@@ -1,0 +1,87 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/vendor/jquery-1.9.1.min.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/dist/js/bootstrap.min.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/collapse.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/scrollspy.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/dropdown.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/carousel.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/tooltip.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/button.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/popover.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/tab.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/modal.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/dropdown.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/scrollspy.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/alert.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/util.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/carousel.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/collapse.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/index.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/tooltip.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/alert.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/tab.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/util.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/modal.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/dist/js/bootstrap.bundle.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/popover.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/dist/js/bootstrap.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/button.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/dist/js/popper.min.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/package.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/assets/js/vendor/jquery-slim.min.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/.babelrc.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/assets/js/src/application.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/assets/js/vendor/holder.min.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/assets/js/vendor/popper.min.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/sw.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/assets/js/src/ie-emulation-modes-warning.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/docs/4.0/examples/tooltip-viewport/tooltip-viewport.min.js" />
+        <item url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/docs/4.0/examples/offcanvas/offcanvas.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/vendor/jquery-1.9.1.min.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/dist/js/bootstrap.min.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/collapse.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/scrollspy.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/dropdown.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/carousel.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/tooltip.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/button.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/popover.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/tab.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/modal.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/dropdown.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/scrollspy.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/alert.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/tests/unit/util.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/carousel.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/collapse.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/index.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/tooltip.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/alert.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/tab.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/util.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/modal.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/dist/js/bootstrap.bundle.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/popover.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/dist/js/bootstrap.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/js/dist/button.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/dist/js/popper.min.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/package.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/assets/js/vendor/jquery-slim.min.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/.babelrc.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/assets/js/src/application.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/assets/js/vendor/holder.min.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/assets/js/vendor/popper.min.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/sw.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/assets/js/src/ie-emulation-modes-warning.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/docs/4.0/examples/tooltip-viewport/tooltip-viewport.min.js" />
+      <root url="file://$PROJECT_DIR$/assets/bootstrap-4.0.0/docs/4.0/examples/offcanvas/offcanvas.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,21 @@
+{
+  "name": "entrada-suprema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.6.2",
+    "smooth-scroll": "^12.1.5"
+  },
+  "devDependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}

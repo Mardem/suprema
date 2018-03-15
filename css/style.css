@@ -1,0 +1,69 @@
+.navbar-light .navbar-toggler {
+  border: none;
+}
+body {
+  overflow-x: hidden;
+}
+.su-nav {
+  background-color: #fdfdfd;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.05), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+}
+.entrance {
+  background: url("../img/bg1.svg") no-repeat center;
+  background-size: cover;
+}
+.about-us {
+  background: url("../img/contato-suprema.png") no-repeat fixed center;
+  background-size: cover;
+  min-height: 300px;
+  color: #fff;
+}
+.contact {
+  padding: 20px;
+}
+.seo-information {
+  margin: 50px 0;
+}
+.seo-image {
+  width: 900px;
+  margin-bottom: 15px;
+}
+.seo-destaque {
+  color: #ef4603;
+}
+.seo-text {
+  width: 170px;
+}
+.project-logo {
+  max-width: 400px;
+}
+.card-text {
+  text-align: center;
+  padding: 0 10px;
+}
+.information-of-site {
+  background: url("../img/bg-site.svg") no-repeat center;
+  background-size: cover;
+  min-height: 700px;
+}
+@media (min-width: 992px) {
+  .entrance {
+    height: 750px;
+  }
+  .seo-text {
+    margin-top: -18px;
+  }
+  .txt-entrance {
+    margin-top: 210px;
+  }
+  .about-us {
+    padding-top: 90px;
+  }
+  .projects {
+    margin: 200px 0;
+  }
+  .information-text {
+    padding-top: 210px;
+    color: #f6f6f6;
+  }
+}
